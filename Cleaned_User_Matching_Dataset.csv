@@ -1,0 +1,101 @@
+user_id,user_type,startup_stage,startup_industry,project_need,tech_requirement,project_deadline,expertise_area,industry_preference,preferred_project_type,core_skill,availability
+F001,Founder,Ideation,SaaS,Digital Marketing,AWS,1 Month,N/A,N/A,N/A,N/A,N/A
+F002,Founder,Ideation,FinTech,Pitch Deck Design,React,2 Months,N/A,N/A,N/A,N/A,N/A
+F003,Founder,Scaling,SaaS,Pitch Deck Design,GST Filing,1 Month,N/A,N/A,N/A,N/A,N/A
+F004,Founder,Early Growth,SaaS,Fundraising Support,React,2 Weeks,N/A,N/A,N/A,N/A,N/A
+F005,Founder,Early Growth,HealthTech,Fundraising Support,Python,2 Months,N/A,N/A,N/A,N/A,N/A
+F006,Founder,Early Growth,FinTech,Digital Marketing,Copywriting,1 Month,N/A,N/A,N/A,N/A,N/A
+F007,Founder,Ideation,HealthTech,UI/UX Revamp,Copywriting,1 Week,N/A,N/A,N/A,N/A,N/A
+F008,Founder,Ideation,HealthTech,MVP Development,GST Filing,1 Week,N/A,N/A,N/A,N/A,N/A
+F009,Founder,Early Growth,AgriTech,Digital Marketing,SEO,1 Week,N/A,N/A,N/A,N/A,N/A
+F010,Founder,Early Growth,E-Commerce,Pitch Deck Design,Figma,2 Months,N/A,N/A,N/A,N/A,N/A
+F011,Founder,Early Growth,EdTech,Digital Marketing,React,1 Week,N/A,N/A,N/A,N/A,N/A
+F012,Founder,Validation,E-Commerce,Fundraising Support,Python,1 Month,N/A,N/A,N/A,N/A,N/A
+F013,Founder,Validation,AgriTech,UI/UX Revamp,React,1 Week,N/A,N/A,N/A,N/A,N/A
+F014,Founder,Validation,HealthTech,Digital Marketing,SEO,1 Week,N/A,N/A,N/A,N/A,N/A
+F015,Founder,Early Growth,E-Commerce,Fundraising Support,Copywriting,2 Weeks,N/A,N/A,N/A,N/A,N/A
+F016,Founder,Ideation,HealthTech,Pitch Deck Design,Python,1 Week,N/A,N/A,N/A,N/A,N/A
+F017,Founder,Ideation,FinTech,Pitch Deck Design,AWS,2 Weeks,N/A,N/A,N/A,N/A,N/A
+F018,Founder,Validation,SaaS,MVP Development,Copywriting,2 Months,N/A,N/A,N/A,N/A,N/A
+F019,Founder,Ideation,SaaS,UI/UX Revamp,Figma,1 Month,N/A,N/A,N/A,N/A,N/A
+F020,Founder,Early Growth,EdTech,Digital Marketing,Python,1 Week,N/A,N/A,N/A,N/A,N/A
+F021,Founder,Scaling,AgriTech,UI/UX Revamp,Python,2 Weeks,N/A,N/A,N/A,N/A,N/A
+F022,Founder,Validation,SaaS,MVP Development,GST Filing,1 Month,N/A,N/A,N/A,N/A,N/A
+F023,Founder,Validation,EdTech,Compliance & Legal,GST Filing,1 Week,N/A,N/A,N/A,N/A,N/A
+F024,Founder,Early Growth,EdTech,MVP Development,Python,1 Month,N/A,N/A,N/A,N/A,N/A
+F025,Founder,Scaling,HealthTech,MVP Development,React,2 Months,N/A,N/A,N/A,N/A,N/A
+F026,Founder,Early Growth,AgriTech,Compliance & Legal,Figma,2 Weeks,N/A,N/A,N/A,N/A,N/A
+F027,Founder,Ideation,FinTech,Digital Marketing,React,2 Months,N/A,N/A,N/A,N/A,N/A
+F028,Founder,Early Growth,FinTech,Compliance & Legal,Node.js,1 Week,N/A,N/A,N/A,N/A,N/A
+F029,Founder,Ideation,AgriTech,UI/UX Revamp,Copywriting,2 Weeks,N/A,N/A,N/A,N/A,N/A
+F030,Founder,Early Growth,HealthTech,Digital Marketing,Figma,2 Months,N/A,N/A,N/A,N/A,N/A
+F031,Founder,Early Growth,HealthTech,Fundraising Support,Copywriting,1 Month,N/A,N/A,N/A,N/A,N/A
+F032,Founder,Early Growth,SaaS,Digital Marketing,Figma,2 Months,N/A,N/A,N/A,N/A,N/A
+F033,Founder,Validation,HealthTech,Digital Marketing,Node.js,2 Weeks,N/A,N/A,N/A,N/A,N/A
+F034,Founder,Validation,E-Commerce,Fundraising Support,Python,2 Weeks,N/A,N/A,N/A,N/A,N/A
+F035,Founder,Scaling,EdTech,Fundraising Support,Figma,1 Month,N/A,N/A,N/A,N/A,N/A
+F036,Founder,Early Growth,EdTech,Fundraising Support,Node.js,1 Week,N/A,N/A,N/A,N/A,N/A
+F037,Founder,Validation,AgriTech,Compliance & Legal,AWS,1 Week,N/A,N/A,N/A,N/A,N/A
+F038,Founder,Early Growth,AgriTech,Fundraising Support,Copywriting,1 Week,N/A,N/A,N/A,N/A,N/A
+F039,Founder,Scaling,EdTech,Pitch Deck Design,React,1 Month,N/A,N/A,N/A,N/A,N/A
+F040,Founder,Ideation,FinTech,Pitch Deck Design,GST Filing,1 Month,N/A,N/A,N/A,N/A,N/A
+F041,Founder,Validation,FinTech,UI/UX Revamp,Node.js,2 Weeks,N/A,N/A,N/A,N/A,N/A
+F042,Founder,Early Growth,SaaS,Pitch Deck Design,Python,1 Week,N/A,N/A,N/A,N/A,N/A
+F043,Founder,Early Growth,HealthTech,UI/UX Revamp,GST Filing,2 Weeks,N/A,N/A,N/A,N/A,N/A
+F044,Founder,Scaling,E-Commerce,UI/UX Revamp,Python,2 Months,N/A,N/A,N/A,N/A,N/A
+F045,Founder,Validation,HealthTech,Digital Marketing,GST Filing,1 Month,N/A,N/A,N/A,N/A,N/A
+F046,Founder,Early Growth,EdTech,Digital Marketing,Python,1 Week,N/A,N/A,N/A,N/A,N/A
+F047,Founder,Ideation,E-Commerce,Fundraising Support,Copywriting,1 Month,N/A,N/A,N/A,N/A,N/A
+F048,Founder,Validation,FinTech,MVP Development,GST Filing,2 Months,N/A,N/A,N/A,N/A,N/A
+F049,Founder,Scaling,SaaS,Compliance & Legal,Figma,1 Week,N/A,N/A,N/A,N/A,N/A
+F050,Founder,Validation,AgriTech,UI/UX Revamp,AWS,2 Weeks,N/A,N/A,N/A,N/A,N/A
+S001,Service Provider,N/A,N/A,N/A,N/A,N/A,Pitch Coach,E-Commerce,UI/UX Revamp,GST Filing,2 Weeks
+S002,Service Provider,N/A,N/A,N/A,N/A,N/A,Legal Advisor,FinTech,MVP Development,SEO,1 Month
+S003,Mentor,N/A,N/A,N/A,N/A,N/A,Legal Advisor,HealthTech,MVP Development,Node.js,1 Month
+S004,Service Provider,N/A,N/A,N/A,N/A,N/A,Legal Advisor,AgriTech,MVP Development,Python,1 Month
+S005,Service Provider,N/A,N/A,N/A,N/A,N/A,Growth Marketing,E-Commerce,UI/UX Revamp,GST Filing,2 Months
+S006,Service Provider,N/A,N/A,N/A,N/A,N/A,Startup Funding,HealthTech,Pitch Deck Design,React,1 Month
+S007,Service Provider,N/A,N/A,N/A,N/A,N/A,Startup Funding,AgriTech,Compliance & Legal,Figma,2 Months
+S008,Service Provider,N/A,N/A,N/A,N/A,N/A,Legal Advisor,SaaS,Fundraising Support,AWS,1 Month
+S009,Mentor,N/A,N/A,N/A,N/A,N/A,Startup Funding,SaaS,UI/UX Revamp,AWS,1 Week
+S010,Mentor,N/A,N/A,N/A,N/A,N/A,Pitch Coach,AgriTech,UI/UX Revamp,GST Filing,2 Weeks
+S011,Mentor,N/A,N/A,N/A,N/A,N/A,Full Stack Development,SaaS,MVP Development,GST Filing,1 Month
+S012,Service Provider,N/A,N/A,N/A,N/A,N/A,Legal Advisor,EdTech,Fundraising Support,Python,2 Months
+S013,Service Provider,N/A,N/A,N/A,N/A,N/A,Pitch Coach,E-Commerce,Compliance & Legal,SEO,1 Week
+S014,Service Provider,N/A,N/A,N/A,N/A,N/A,Full Stack Development,HealthTech,Compliance & Legal,Copywriting,2 Weeks
+S015,Service Provider,N/A,N/A,N/A,N/A,N/A,Full Stack Development,SaaS,Pitch Deck Design,AWS,1 Month
+S016,Service Provider,N/A,N/A,N/A,N/A,N/A,Full Stack Development,FinTech,Pitch Deck Design,React,1 Month
+S017,Mentor,N/A,N/A,N/A,N/A,N/A,Growth Marketing,AgriTech,Digital Marketing,Figma,1 Week
+S018,Service Provider,N/A,N/A,N/A,N/A,N/A,Growth Marketing,E-Commerce,UI/UX Revamp,Python,2 Months
+S019,Mentor,N/A,N/A,N/A,N/A,N/A,Startup Funding,EdTech,MVP Development,Figma,2 Months
+S020,Service Provider,N/A,N/A,N/A,N/A,N/A,Startup Funding,EdTech,UI/UX Revamp,React,2 Months
+S021,Mentor,N/A,N/A,N/A,N/A,N/A,Startup Funding,SaaS,Compliance & Legal,AWS,2 Weeks
+S022,Service Provider,N/A,N/A,N/A,N/A,N/A,Startup Funding,SaaS,Compliance & Legal,React,1 Month
+S023,Service Provider,N/A,N/A,N/A,N/A,N/A,Startup Funding,AgriTech,Digital Marketing,React,2 Weeks
+S024,Mentor,N/A,N/A,N/A,N/A,N/A,Growth Marketing,E-Commerce,Compliance & Legal,AWS,1 Month
+S025,Service Provider,N/A,N/A,N/A,N/A,N/A,Legal Advisor,E-Commerce,Pitch Deck Design,Node.js,1 Week
+S026,Mentor,N/A,N/A,N/A,N/A,N/A,Legal Advisor,EdTech,UI/UX Revamp,React,2 Months
+S027,Service Provider,N/A,N/A,N/A,N/A,N/A,Growth Marketing,FinTech,Fundraising Support,GST Filing,1 Week
+S028,Mentor,N/A,N/A,N/A,N/A,N/A,Design Expert,HealthTech,Pitch Deck Design,Python,1 Week
+S029,Mentor,N/A,N/A,N/A,N/A,N/A,Growth Marketing,FinTech,Digital Marketing,GST Filing,1 Week
+S030,Service Provider,N/A,N/A,N/A,N/A,N/A,Legal Advisor,EdTech,Digital Marketing,Figma,2 Months
+S031,Mentor,N/A,N/A,N/A,N/A,N/A,Full Stack Development,FinTech,Compliance & Legal,SEO,2 Weeks
+S032,Mentor,N/A,N/A,N/A,N/A,N/A,Growth Marketing,FinTech,MVP Development,Python,1 Week
+S033,Service Provider,N/A,N/A,N/A,N/A,N/A,Full Stack Development,AgriTech,UI/UX Revamp,AWS,1 Month
+S034,Service Provider,N/A,N/A,N/A,N/A,N/A,Design Expert,E-Commerce,Digital Marketing,AWS,2 Weeks
+S035,Mentor,N/A,N/A,N/A,N/A,N/A,Pitch Coach,SaaS,UI/UX Revamp,SEO,2 Weeks
+S036,Mentor,N/A,N/A,N/A,N/A,N/A,Design Expert,FinTech,Fundraising Support,Python,1 Week
+S037,Mentor,N/A,N/A,N/A,N/A,N/A,Legal Advisor,E-Commerce,UI/UX Revamp,Python,1 Month
+S038,Mentor,N/A,N/A,N/A,N/A,N/A,Legal Advisor,AgriTech,Fundraising Support,Python,2 Months
+S039,Mentor,N/A,N/A,N/A,N/A,N/A,Legal Advisor,FinTech,UI/UX Revamp,Node.js,1 Month
+S040,Mentor,N/A,N/A,N/A,N/A,N/A,Full Stack Development,FinTech,Pitch Deck Design,AWS,2 Months
+S041,Service Provider,N/A,N/A,N/A,N/A,N/A,Growth Marketing,E-Commerce,MVP Development,Python,1 Week
+S042,Service Provider,N/A,N/A,N/A,N/A,N/A,Pitch Coach,EdTech,Pitch Deck Design,Python,2 Months
+S043,Mentor,N/A,N/A,N/A,N/A,N/A,Growth Marketing,EdTech,MVP Development,Python,1 Month
+S044,Service Provider,N/A,N/A,N/A,N/A,N/A,Design Expert,SaaS,Compliance & Legal,Copywriting,2 Weeks
+S045,Service Provider,N/A,N/A,N/A,N/A,N/A,Legal Advisor,E-Commerce,UI/UX Revamp,Figma,1 Month
+S046,Mentor,N/A,N/A,N/A,N/A,N/A,Startup Funding,AgriTech,Digital Marketing,Node.js,1 Week
+S047,Service Provider,N/A,N/A,N/A,N/A,N/A,Full Stack Development,SaaS,Digital Marketing,Python,1 Week
+S048,Service Provider,N/A,N/A,N/A,N/A,N/A,Full Stack Development,SaaS,Digital Marketing,Python,2 Months
+S049,Service Provider,N/A,N/A,N/A,N/A,N/A,Growth Marketing,HealthTech,Fundraising Support,React,2 Months
+S050,Mentor,N/A,N/A,N/A,N/A,N/A,Growth Marketing,HealthTech,Compliance & Legal,GST Filing,1 Month

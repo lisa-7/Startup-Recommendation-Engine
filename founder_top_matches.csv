@@ -1,0 +1,251 @@
+founder_id,provider_id,match_score,reason
+F001,S008,81.8,Industry aligned; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 38%
+F001,S015,81.8,Industry aligned; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 38%
+F001,S009,68.4,Industry aligned; Skill match: 100%; Partial project type fit; Timeline fit: 33%; Stage match: 38%
+F001,S024,68.0,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 50%
+F001,S033,66.8,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 38%
+F002,S016,91.0,Industry aligned; Skill match: 100%; Project type fits; Timeline fit: 86%; Stage match: 38%
+F002,S006,76.0,Different industry; Skill match: 100%; Project type fits; Timeline fit: 86%; Stage match: 38%
+F002,S040,68.8,Industry aligned; Skill match: 0%; Project type fits; Timeline fit: 100%; Stage match: 38%
+F002,S049,68.0,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 50%
+F002,S020,66.8,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 38%
+F003,S011,80.9,Industry aligned; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 29%
+F003,S015,67.9,Industry aligned; Skill match: 0%; Project type fits; Timeline fit: 100%; Stage match: 29%
+F003,S050,67.3,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 43%
+F003,S005,64.5,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 86%; Stage match: 43%
+F003,S048,57.35,Industry aligned; Skill match: 17%; Partial project type fit; Timeline fit: 86%; Stage match: 29%
+F004,S023,65.5,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 25%
+F004,S049,65.0,Different industry; Skill match: 100%; Project type fits; Timeline fit: 29%; Stage match: 42%
+F004,S022,63.3,Industry aligned; Skill match: 100%; Partial project type fit; Timeline fit: 14%; Stage match: 25%
+F004,S044,60.6,Industry aligned; Skill match: 20%; Partial project type fit; Timeline fit: 100%; Stage match: 26%
+F004,S047,57.2,Industry aligned; Skill match: 20%; Partial project type fit; Timeline fit: 83%; Stage match: 26%
+F005,S012,78.5,Different industry; Skill match: 100%; Project type fits; Timeline fit: 100%; Stage match: 35%
+F005,S038,78.5,Different industry; Skill match: 100%; Project type fits; Timeline fit: 100%; Stage match: 35%
+F005,S049,74.2,Industry aligned; Skill match: 20%; Project type fits; Timeline fit: 100%; Stage match: 42%
+F005,S018,67.2,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 42%
+F005,S042,65.7,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 27%
+F006,S029,65.8,Industry aligned; Skill match: 40%; Project type fits; Timeline fit: 33%; Stage match: 42%
+F006,S030,60.7,Different industry; Skill match: 40%; Project type fits; Timeline fit: 86%; Stage match: 35%
+F006,S016,60.6,Industry aligned; Skill match: 20%; Partial project type fit; Timeline fit: 100%; Stage match: 26%
+F006,S039,60.0,Industry aligned; Skill match: 14%; Partial project type fit; Timeline fit: 100%; Stage match: 35%
+F006,S048,58.05,Different industry; Skill match: 33%; Project type fits; Timeline fit: 86%; Stage match: 26%
+F007,S014,78.4,Industry aligned; Skill match: 100%; Partial project type fit; Timeline fit: 83%; Stage match: 38%
+F007,S028,65.05,Industry aligned; Skill match: 33%; Partial project type fit; Timeline fit: 100%; Stage match: 38%
+F007,S044,63.4,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 83%; Stage match: 38%
+F007,S001,59.1,Different industry; Skill match: 40%; Project type fits; Timeline fit: 83%; Stage match: 25%
+F007,S010,59.1,Different industry; Skill match: 40%; Project type fits; Timeline fit: 83%; Stage match: 25%
+F008,S050,69.6,Industry aligned; Skill match: 100%; Partial project type fit; Timeline fit: 33%; Stage match: 50%
+F008,S027,68.0,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 50%
+F008,S029,68.0,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 50%
+F008,S011,65.4,Different industry; Skill match: 100%; Project type fits; Timeline fit: 33%; Stage match: 38%
+F008,S014,63.4,Industry aligned; Skill match: 40%; Partial project type fit; Timeline fit: 83%; Stage match: 38%
+F009,S017,69.2,Industry aligned; Skill match: 0%; Project type fits; Timeline fit: 100%; Stage match: 42%
+F009,S046,67.5,Industry aligned; Skill match: 0%; Project type fits; Timeline fit: 100%; Stage match: 25%
+F009,S013,65.7,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 27%
+F009,S023,64.1,Industry aligned; Skill match: 0%; Project type fits; Timeline fit: 83%; Stage match: 25%
+F009,S029,62.45,Different industry; Skill match: 33%; Project type fits; Timeline fit: 100%; Stage match: 42%
+F010,S045,78.7,Industry aligned; Skill match: 100%; Partial project type fit; Timeline fit: 86%; Stage match: 35%
+F010,S005,67.2,Industry aligned; Skill match: 40%; Partial project type fit; Timeline fit: 100%; Stage match: 42%
+F010,S030,66.5,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 35%
+F010,S007,65.5,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 25%
+F010,S019,65.5,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 25%
+F011,S023,74.1,Different industry; Skill match: 100%; Project type fits; Timeline fit: 83%; Stage match: 25%
+F011,S026,64.9,Industry aligned; Skill match: 100%; Partial project type fit; Timeline fit: 17%; Stage match: 35%
+F011,S020,63.9,Industry aligned; Skill match: 100%; Partial project type fit; Timeline fit: 17%; Stage match: 25%
+F011,S017,59.2,Different industry; Skill match: 20%; Project type fits; Timeline fit: 100%; Stage match: 42%
+F011,S047,57.6,Different industry; Skill match: 20%; Project type fits; Timeline fit: 100%; Stage match: 26%
+F012,S037,83.0,Industry aligned; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 50%
+F012,S018,79.2,Industry aligned; Skill match: 100%; Partial project type fit; Timeline fit: 86%; Stage match: 40%
+F012,S012,77.2,Different industry; Skill match: 100%; Project type fits; Timeline fit: 86%; Stage match: 50%
+F012,S038,77.2,Different industry; Skill match: 100%; Project type fits; Timeline fit: 86%; Stage match: 50%
+F012,S041,68.6,Industry aligned; Skill match: 100%; Partial project type fit; Timeline fit: 33%; Stage match: 40%
+F013,S023,77.6,Industry aligned; Skill match: 100%; Partial project type fit; Timeline fit: 83%; Stage match: 30%
+F013,S010,64.6,Industry aligned; Skill match: 0%; Project type fits; Timeline fit: 83%; Stage match: 30%
+F013,S026,63.4,Different industry; Skill match: 100%; Project type fits; Timeline fit: 17%; Stage match: 50%
+F013,S017,62.0,Industry aligned; Skill match: 20%; Partial project type fit; Timeline fit: 100%; Stage match: 40%
+F013,S020,61.4,Different industry; Skill match: 100%; Project type fits; Timeline fit: 17%; Stage match: 30%
+F014,S013,66.0,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 30%
+F014,S031,62.6,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 83%; Stage match: 30%
+F014,S035,62.6,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 83%; Stage match: 30%
+F014,S029,62.25,Different industry; Skill match: 33%; Project type fits; Timeline fit: 100%; Stage match: 40%
+F014,S034,56.85,Different industry; Skill match: 33%; Project type fits; Timeline fit: 83%; Stage match: 20%
+F015,S001,65.7,Industry aligned; Skill match: 40%; Partial project type fit; Timeline fit: 100%; Stage match: 27%
+F015,S014,65.6,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 26%
+F015,S044,65.6,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 26%
+F015,S041,62.05,Industry aligned; Skill match: 33%; Partial project type fit; Timeline fit: 83%; Stage match: 42%
+F015,S027,60.8,Different industry; Skill match: 40%; Project type fits; Timeline fit: 83%; Stage match: 42%
+F016,S028,93.8,Industry aligned; Skill match: 100%; Project type fits; Timeline fit: 100%; Stage match: 38%
+F016,S032,68.0,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 50%
+F016,S041,68.0,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 50%
+F016,S036,66.8,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 38%
+F016,S047,66.8,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 38%
+F017,S040,79.6,Industry aligned; Skill match: 100%; Project type fits; Timeline fit: 29%; Stage match: 38%
+F017,S021,66.8,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 38%
+F017,S034,66.8,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 38%
+F017,S031,65.05,Industry aligned; Skill match: 33%; Partial project type fit; Timeline fit: 100%; Stage match: 38%
+F017,S009,63.4,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 83%; Stage match: 38%
+F018,S011,75.2,Industry aligned; Skill match: 40%; Project type fits; Timeline fit: 86%; Stage match: 30%
+F018,S044,65.8,Industry aligned; Skill match: 100%; Partial project type fit; Timeline fit: 29%; Stage match: 20%
+F018,S048,64.25,Industry aligned; Skill match: 33%; Partial project type fit; Timeline fit: 100%; Stage match: 30%
+F018,S019,63.0,Different industry; Skill match: 40%; Project type fits; Timeline fit: 100%; Stage match: 30%
+F018,S004,60.45,Different industry; Skill match: 33%; Project type fits; Timeline fit: 86%; Stage match: 50%
+F019,S045,78.8,Different industry; Skill match: 100%; Project type fits; Timeline fit: 100%; Stage match: 38%
+F019,S011,66.8,Industry aligned; Skill match: 40%; Partial project type fit; Timeline fit: 100%; Stage match: 38%
+F019,S007,64.0,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 86%; Stage match: 38%
+F019,S019,64.0,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 86%; Stage match: 38%
+F019,S030,64.0,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 86%; Stage match: 38%
+F020,S047,77.6,Different industry; Skill match: 100%; Project type fits; Timeline fit: 100%; Stage match: 26%
+F020,S043,68.8,Industry aligned; Skill match: 100%; Partial project type fit; Timeline fit: 33%; Stage match: 42%
+F020,S032,67.2,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 42%
+F020,S041,67.2,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 42%
+F020,S028,65.6,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 26%
+F021,S010,72.15,Industry aligned; Skill match: 17%; Project type fits; Timeline fit: 100%; Stage match: 29%
+F021,S038,66.7,Industry aligned; Skill match: 100%; Partial project type fit; Timeline fit: 29%; Stage match: 29%
+F021,S018,65.1,Different industry; Skill match: 100%; Project type fits; Timeline fit: 29%; Stage match: 43%
+F021,S032,63.9,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 83%; Stage match: 43%
+F021,S041,63.9,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 83%; Stage match: 43%
+F022,S011,93.0,Industry aligned; Skill match: 100%; Project type fits; Timeline fit: 100%; Stage match: 30%
+F022,S050,67.0,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 40%
+F022,S005,64.2,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 86%; Stage match: 40%
+F022,S002,63.25,Different industry; Skill match: 33%; Project type fits; Timeline fit: 100%; Stage match: 50%
+F022,S019,60.2,Different industry; Skill match: 40%; Project type fits; Timeline fit: 86%; Stage match: 30%
+F023,S027,67.0,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 40%
+F023,S029,67.0,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 40%
+F023,S050,65.6,Different industry; Skill match: 100%; Project type fits; Timeline fit: 33%; Stage match: 40%
+F023,S001,62.6,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 83%; Stage match: 30%
+F023,S010,62.6,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 83%; Stage match: 30%
+F024,S043,94.2,Industry aligned; Skill match: 100%; Project type fits; Timeline fit: 100%; Stage match: 42%
+F024,S012,78.7,Industry aligned; Skill match: 100%; Partial project type fit; Timeline fit: 86%; Stage match: 35%
+F024,S004,78.5,Different industry; Skill match: 100%; Project type fits; Timeline fit: 100%; Stage match: 35%
+F024,S042,77.9,Industry aligned; Skill match: 100%; Partial project type fit; Timeline fit: 86%; Stage match: 27%
+F024,S037,66.5,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 35%
+F025,S049,82.3,Industry aligned; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 43%
+F025,S006,79.5,Industry aligned; Skill match: 100%; Partial project type fit; Timeline fit: 86%; Stage match: 43%
+F025,S003,70.1,Industry aligned; Skill match: 20%; Project type fits; Timeline fit: 86%; Stage match: 29%
+F025,S020,67.3,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 43%
+F025,S026,65.9,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 29%
+F026,S017,78.8,Industry aligned; Skill match: 100%; Partial project type fit; Timeline fit: 83%; Stage match: 42%
+F026,S007,78.3,Industry aligned; Skill match: 100%; Project type fits; Timeline fit: 29%; Stage match: 25%
+F026,S010,65.7,Industry aligned; Skill match: 40%; Partial project type fit; Timeline fit: 100%; Stage match: 27%
+F026,S014,62.6,Different industry; Skill match: 40%; Project type fits; Timeline fit: 100%; Stage match: 26%
+F026,S044,62.6,Different industry; Skill match: 40%; Project type fits; Timeline fit: 100%; Stage match: 26%
+F027,S016,79.0,Industry aligned; Skill match: 100%; Partial project type fit; Timeline fit: 86%; Stage match: 38%
+F027,S049,68.0,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 50%
+F027,S020,66.8,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 38%
+F027,S026,66.8,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 38%
+F027,S023,64.6,Different industry; Skill match: 100%; Project type fits; Timeline fit: 29%; Stage match: 38%
+F028,S039,68.1,Industry aligned; Skill match: 100%; Partial project type fit; Timeline fit: 33%; Stage match: 35%
+F028,S025,66.5,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 35%
+F028,S046,65.5,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 25%
+F028,S031,64.2,Industry aligned; Skill match: 0%; Project type fits; Timeline fit: 83%; Stage match: 26%
+F028,S032,61.45,Industry aligned; Skill match: 17%; Partial project type fit; Timeline fit: 100%; Stage match: 42%
+F029,S010,77.5,Industry aligned; Skill match: 40%; Project type fits; Timeline fit: 100%; Stage match: 25%
+F029,S014,66.8,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 38%
+F029,S044,66.8,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 38%
+F029,S017,64.6,Industry aligned; Skill match: 40%; Partial project type fit; Timeline fit: 83%; Stage match: 50%
+F029,S001,62.5,Different industry; Skill match: 40%; Project type fits; Timeline fit: 100%; Stage match: 25%
+F030,S030,78.5,Different industry; Skill match: 100%; Project type fits; Timeline fit: 100%; Stage match: 35%
+F030,S007,65.5,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 25%
+F030,S019,65.5,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 25%
+F030,S050,64.4,Industry aligned; Skill match: 40%; Partial project type fit; Timeline fit: 86%; Stage match: 42%
+F030,S045,63.7,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 86%; Stage match: 35%
+F031,S049,71.4,Industry aligned; Skill match: 20%; Project type fits; Timeline fit: 86%; Stage match: 42%
+F031,S050,67.2,Industry aligned; Skill match: 40%; Partial project type fit; Timeline fit: 100%; Stage match: 42%
+F031,S014,63.4,Industry aligned; Skill match: 100%; Partial project type fit; Timeline fit: 14%; Stage match: 26%
+F031,S006,60.5,Industry aligned; Skill match: 20%; Partial project type fit; Timeline fit: 100%; Stage match: 25%
+F031,S003,60.0,Industry aligned; Skill match: 14%; Partial project type fit; Timeline fit: 100%; Stage match: 35%
+F032,S030,78.5,Different industry; Skill match: 100%; Project type fits; Timeline fit: 100%; Stage match: 35%
+F032,S048,67.6,Industry aligned; Skill match: 0%; Project type fits; Timeline fit: 100%; Stage match: 26%
+F032,S007,65.5,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 25%
+F032,S019,65.5,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 25%
+F032,S045,63.7,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 86%; Stage match: 35%
+F033,S046,74.6,Different industry; Skill match: 100%; Project type fits; Timeline fit: 83%; Stage match: 30%
+F033,S003,65.8,Industry aligned; Skill match: 100%; Partial project type fit; Timeline fit: 14%; Stage match: 50%
+F033,S025,64.6,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 83%; Stage match: 50%
+F033,S014,59.5,Industry aligned; Skill match: 14%; Partial project type fit; Timeline fit: 100%; Stage match: 30%
+F033,S023,58.0,Different industry; Skill match: 20%; Project type fits; Timeline fit: 100%; Stage match: 30%
+F034,S041,78.6,Industry aligned; Skill match: 100%; Partial project type fit; Timeline fit: 83%; Stage match: 40%
+F034,S036,73.6,Different industry; Skill match: 100%; Project type fits; Timeline fit: 83%; Stage match: 20%
+F034,S018,67.8,Industry aligned; Skill match: 100%; Partial project type fit; Timeline fit: 29%; Stage match: 40%
+F034,S012,65.8,Different industry; Skill match: 100%; Project type fits; Timeline fit: 29%; Stage match: 50%
+F034,S037,65.8,Industry aligned; Skill match: 100%; Partial project type fit; Timeline fit: 14%; Stage match: 50%
+F035,S019,79.5,Industry aligned; Skill match: 100%; Partial project type fit; Timeline fit: 86%; Stage match: 43%
+F035,S030,78.1,Industry aligned; Skill match: 100%; Partial project type fit; Timeline fit: 86%; Stage match: 29%
+F035,S045,65.9,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 29%
+F035,S012,65.1,Industry aligned; Skill match: 0%; Project type fits; Timeline fit: 86%; Stage match: 29%
+F035,S007,64.5,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 86%; Stage match: 43%
+F036,S025,66.5,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 35%
+F036,S046,65.5,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 25%
+F036,S036,56.85,Different industry; Skill match: 17%; Project type fits; Timeline fit: 100%; Stage match: 26%
+F036,S012,56.15,Industry aligned; Skill match: 17%; Project type fits; Timeline fit: 17%; Stage match: 35%
+F036,S027,54.2,Different industry; Skill match: 0%; Project type fits; Timeline fit: 100%; Stage match: 42%
+F037,S021,74.6,Different industry; Skill match: 100%; Project type fits; Timeline fit: 83%; Stage match: 30%
+F037,S033,67.6,Industry aligned; Skill match: 100%; Partial project type fit; Timeline fit: 33%; Stage match: 30%
+F037,S009,66.0,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 30%
+F037,S024,65.6,Different industry; Skill match: 100%; Project type fits; Timeline fit: 33%; Stage match: 40%
+F037,S034,61.6,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 83%; Stage match: 20%
+F038,S017,67.2,Industry aligned; Skill match: 40%; Partial project type fit; Timeline fit: 100%; Stage match: 42%
+F038,S027,64.2,Different industry; Skill match: 40%; Project type fits; Timeline fit: 100%; Stage match: 42%
+F038,S010,62.3,Industry aligned; Skill match: 40%; Partial project type fit; Timeline fit: 83%; Stage match: 27%
+F038,S014,62.2,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 83%; Stage match: 26%
+F038,S044,62.2,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 83%; Stage match: 26%
+F039,S020,79.5,Industry aligned; Skill match: 100%; Partial project type fit; Timeline fit: 86%; Stage match: 43%
+F039,S006,79.3,Different industry; Skill match: 100%; Project type fits; Timeline fit: 100%; Stage match: 43%
+F039,S026,78.1,Industry aligned; Skill match: 100%; Partial project type fit; Timeline fit: 86%; Stage match: 29%
+F039,S016,77.9,Different industry; Skill match: 100%; Project type fits; Timeline fit: 100%; Stage match: 29%
+F039,S042,70.1,Industry aligned; Skill match: 20%; Project type fits; Timeline fit: 86%; Stage match: 29%
+F040,S027,69.6,Industry aligned; Skill match: 100%; Partial project type fit; Timeline fit: 33%; Stage match: 50%
+F040,S029,69.6,Industry aligned; Skill match: 100%; Partial project type fit; Timeline fit: 33%; Stage match: 50%
+F040,S016,68.8,Industry aligned; Skill match: 0%; Project type fits; Timeline fit: 100%; Stage match: 38%
+F040,S050,68.0,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 50%
+F040,S011,66.8,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 38%
+F041,S039,77.8,Industry aligned; Skill match: 100%; Project type fits; Timeline fit: 14%; Stage match: 50%
+F041,S025,64.6,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 83%; Stage match: 50%
+F041,S046,62.6,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 83%; Stage match: 30%
+F041,S032,57.85,Industry aligned; Skill match: 17%; Partial project type fit; Timeline fit: 83%; Stage match: 40%
+F041,S031,56.0,Industry aligned; Skill match: 0%; Partial project type fit; Timeline fit: 100%; Stage match: 30%
+F042,S047,80.6,Industry aligned; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 26%
+F042,S028,77.6,Different industry; Skill match: 100%; Project type fits; Timeline fit: 100%; Stage match: 26%
+F042,S032,67.2,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 42%
+F042,S041,67.2,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 42%
+F042,S036,65.6,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 26%
+F043,S001,77.7,Different industry; Skill match: 100%; Project type fits; Timeline fit: 100%; Stage match: 27%
+F043,S010,77.7,Different industry; Skill match: 100%; Project type fits; Timeline fit: 100%; Stage match: 27%
+F043,S014,65.6,Industry aligned; Skill match: 40%; Partial project type fit; Timeline fit: 100%; Stage match: 26%
+F043,S005,65.0,Different industry; Skill match: 100%; Project type fits; Timeline fit: 29%; Stage match: 42%
+F043,S050,65.0,Industry aligned; Skill match: 100%; Partial project type fit; Timeline fit: 14%; Stage match: 42%
+F044,S018,94.3,Industry aligned; Skill match: 100%; Project type fits; Timeline fit: 100%; Stage match: 43%
+F044,S037,90.1,Industry aligned; Skill match: 100%; Project type fits; Timeline fit: 86%; Stage match: 29%
+F044,S005,73.55,Industry aligned; Skill match: 17%; Project type fits; Timeline fit: 100%; Stage match: 43%
+F044,S012,65.9,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 29%
+F044,S038,65.9,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 29%
+F045,S050,82.0,Industry aligned; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 40%
+F045,S011,66.0,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 30%
+F045,S029,65.6,Different industry; Skill match: 100%; Project type fits; Timeline fit: 33%; Stage match: 40%
+F045,S005,64.2,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 86%; Stage match: 40%
+F045,S030,62.2,Different industry; Skill match: 40%; Project type fits; Timeline fit: 86%; Stage match: 50%
+F046,S047,77.6,Different industry; Skill match: 100%; Project type fits; Timeline fit: 100%; Stage match: 26%
+F046,S043,68.8,Industry aligned; Skill match: 100%; Partial project type fit; Timeline fit: 33%; Stage match: 42%
+F046,S032,67.2,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 42%
+F046,S041,67.2,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 42%
+F046,S028,65.6,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 26%
+F047,S045,66.8,Industry aligned; Skill match: 40%; Partial project type fit; Timeline fit: 100%; Stage match: 38%
+F047,S005,65.2,Industry aligned; Skill match: 40%; Partial project type fit; Timeline fit: 86%; Stage match: 50%
+F047,S037,65.05,Industry aligned; Skill match: 33%; Partial project type fit; Timeline fit: 100%; Stage match: 38%
+F047,S018,63.45,Industry aligned; Skill match: 33%; Partial project type fit; Timeline fit: 86%; Stage match: 50%
+F047,S012,59.25,Different industry; Skill match: 33%; Project type fits; Timeline fit: 86%; Stage match: 38%
+F048,S002,75.45,Industry aligned; Skill match: 33%; Project type fits; Timeline fit: 86%; Stage match: 50%
+F048,S011,75.2,Different industry; Skill match: 100%; Project type fits; Timeline fit: 86%; Stage match: 30%
+F048,S005,67.0,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 40%
+F048,S027,65.4,Industry aligned; Skill match: 100%; Partial project type fit; Timeline fit: 17%; Stage match: 40%
+F048,S029,65.4,Industry aligned; Skill match: 100%; Partial project type fit; Timeline fit: 17%; Stage match: 40%
+F049,S044,74.5,Industry aligned; Skill match: 40%; Project type fits; Timeline fit: 83%; Stage match: 29%
+F049,S017,67.3,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 43%
+F049,S021,65.9,Industry aligned; Skill match: 0%; Project type fits; Timeline fit: 83%; Stage match: 43%
+F049,S007,62.7,Different industry; Skill match: 100%; Project type fits; Timeline fit: 17%; Stage match: 43%
+F049,S022,60.9,Industry aligned; Skill match: 20%; Project type fits; Timeline fit: 33%; Stage match: 43%
+F050,S033,75.8,Industry aligned; Skill match: 100%; Project type fits; Timeline fit: 14%; Stage match: 30%
+F050,S009,74.6,Different industry; Skill match: 100%; Project type fits; Timeline fit: 83%; Stage match: 30%
+F050,S010,68.0,Industry aligned; Skill match: 0%; Project type fits; Timeline fit: 100%; Stage match: 30%
+F050,S021,66.0,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 30%
+F050,S034,65.0,Different industry; Skill match: 100%; Partial project type fit; Timeline fit: 100%; Stage match: 20%
